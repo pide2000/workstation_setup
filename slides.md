@@ -15,9 +15,13 @@ paginate: true
 # Who am I
 Peter Bolch 
 
-Informatiker
-*Selbständigkeit*
-Hobbies: Skateboard fahren, Lesen, uvm. 
+* Informatiker
+* Gründer (in Gründungsphase)
+* Papa und Ehemann
+* Skateboarder
+* Jogger 
+* Lesender 
+* Bastler 
 ![bg right](Docs/test.svg)
 <!-- Kurze Bio  --> 
 
